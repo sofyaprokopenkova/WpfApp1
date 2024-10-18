@@ -8,16 +8,16 @@
   </PropertyGroup>
 
 	<ItemGroup>
-		<None Remove="Images\logo.png" />
-		<None Remove="logo.png" />
+		<None Remove="Images\logo.jpg" />
+		<None Remove="logo.jpg" />
 	</ItemGroup>
 
 	<ItemGroup>
-		<EmbeddedResource Include="Images\logo.png" />
+		<EmbeddedResource Include="Images\logo.jpg" />
 	</ItemGroup>
 
 	<ItemGroup>
-		<Resource Include="logo.png" />
+		<Resource Include="logo.jpg" />
 	</ItemGroup>
 
 </Project>

@@ -24,6 +24,7 @@ namespace WpfApp1
         {
             InitializeComponent();
             new Login().Show();
+            new Registration().Show();
         }
     }
 }
